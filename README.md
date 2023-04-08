@@ -4,10 +4,7 @@
 
 
 
-Godspower Ufot
-Generate a read me file for Github profile for junior frontend  web developer with skill set js html can reactjs material UI and currently learning modern web designs and add a soft skill on it with email address ufotgodspower8@gmail.com
-
-Hello, I'm [Your Name]
+ello, I'm [Godspower ufot
 I am a junior frontend web developer with experience in JavaScript, HTML, ReactJS, and Material UI. I am passionate about creating engaging and responsive user interfaces that provide the best user experience.
 
 🚀 Skills
