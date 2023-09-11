@@ -5,7 +5,7 @@
 
 
 ello, I'm [Godspower ufot
-I am a junior frontend web developer with experience in JavaScript, HTML, ReactJS, and Material UI. I am passionate about creating engaging and responsive user interfaces that provide the best user experience.
+I am a junior frontend web developer with experience in JavaScript, HTML, ReactJS, and tailwindCSS. I am passionate about creating engaging and responsive user interfaces that provide the best user experience.
 
 🚀 Skills
 JavaScript
