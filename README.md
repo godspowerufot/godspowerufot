@@ -12,10 +12,10 @@ JavaScript
 HTML
 CSS
 ReactJS
-Material UI
+TailwindCss
 Git
 🌱 Learning
-I am constantly learning and expanding my skillset in modern web design principles, including responsive design, accessibility, and performance optimization. I am also focusing on improving my proficiency in Redux and other popular libraries and frameworks.
+I am constantly learning and expanding my skillset in modern web design principles, including responsive design, accessibility, and performance optimization. I am also focusing on improving my proficiency in ContextAPi and other popular libraries and frameworks.
 
 💬 Get in Touch
 Email: ufotgodspower8@gmail.com
